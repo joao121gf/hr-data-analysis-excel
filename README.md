@@ -30,7 +30,7 @@ As análises foram desenvolvidas com **Excel** (Power Query, Tabelas Dinâmicas 
 
 ## 📊 Dashboard: Desempenho Comercial e Receita
 
-![Desempenho Comercial e Receita](./images/planilha_pronta.png)
+![Desempenho Comercial e Receita](./03.%20images/planilha_pronta.png)
 
 ## 📊 Dashboard: Vendas e Lucro
 
