@@ -76,8 +76,7 @@ Clientes com maiores volumes de compra, como:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python** (Pandas, Numpy)
-- **Power BI**
+- **Excel** (Power Query, Tabelas Dinâmicas e Dashboards)
 - **Kaggle Dataset**
 
 ---
